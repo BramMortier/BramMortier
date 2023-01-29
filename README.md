@@ -1,2 +1,2 @@
-![](/assets/gh-profile.PNG)
+![profile](/assets/profile.png)
 
